@@ -1,0 +1,41 @@
+{
+  "note": "Configuration labels only; not a legal-source database.",
+  "jurisdictions": [
+    {
+      "id": "CN",
+      "name": "China mainland",
+      "default_language": "zh-CN",
+      "review_requirement": "Verify current national and local law using authoritative sources."
+    },
+    {
+      "id": "US",
+      "name": "United States",
+      "default_language": "en-US",
+      "review_requirement": "Identify state/federal law and applicable date."
+    },
+    {
+      "id": "EW",
+      "name": "England and Wales",
+      "default_language": "en-GB",
+      "review_requirement": "Do not conflate with Scotland or Northern Ireland."
+    },
+    {
+      "id": "EU",
+      "name": "European Union",
+      "default_language": "en",
+      "review_requirement": "Separate EU-level law from member-state implementation and national law."
+    },
+    {
+      "id": "CA",
+      "name": "Canada",
+      "default_language": "en-CA",
+      "review_requirement": "Identify province/territory and federal issues."
+    },
+    {
+      "id": "AU",
+      "name": "Australia",
+      "default_language": "en-AU",
+      "review_requirement": "Identify state/territory and federal issues."
+    }
+  ]
+}

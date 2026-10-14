@@ -1,0 +1,2 @@
+# Runtime uses Python standard library only.
+# Optional: python-dotenv>=1.0.0 to load .env files automatically (not currently required).
